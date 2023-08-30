@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.VoiceCalculator" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:textColor">@color/ItemLightTheme</item>
+        <item name="android:colorBackground">@color/BackgroundLightTheme</item>
+        <item name="colorPrimary">@color/ForPrimaryLight</item>
+        <item name="colorAccent">@color/teal_200</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="android:src">@drawable/ic_mic_light</item>
+    </style>
+</resources>
